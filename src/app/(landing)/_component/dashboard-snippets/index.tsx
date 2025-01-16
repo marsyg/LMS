@@ -17,6 +17,7 @@ const DashboardSnippet = (props: Props) => {
                     objectFit="contain"
                 />
             </div>
+            
         </div>
     )
 }
